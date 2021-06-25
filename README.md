@@ -1,3 +1,19 @@
+# KakaotalkPC_Adblock_Service
+카카오톡 PC 광고 삭제   
+
+|   |   |
+|---|---|
+|언어|C#|
+|SDK|.NET 5|
+|IDE|Visual Studio 16.9.0|
+|Project|WorkerService|
+|Nuget Package|Microsoft.Extensions.Hosting.WindowsServices 5.0.1|
+|메인 프로젝트|https://github.com/blurfx/KakaoTalkAdBlock|
+
+
+
+
+
 # KakaoTalkAdBlock
 
 Removes ads from KakaoTalk PC client.
